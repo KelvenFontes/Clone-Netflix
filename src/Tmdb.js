@@ -63,4 +63,9 @@ export default {
             },
         ];
     }
+
+    getMovieInfo: async () => {
+        
+    }
+
 }
